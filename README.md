@@ -6,3 +6,5 @@ space to scatter clones
 s to randomize clone size  
 c to randomize clone color  
 l to spawn a laser that destroys the clones  
+## discord webhook scratch/js
+just follow what it says and it should work
